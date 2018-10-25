@@ -1,4 +1,4 @@
-Bundle RFT to TXT converting using Mac Terminal
+Bundle RTF to TXT converting using Mac Terminal
 =====
 
 To convert all the RTF files in a directory to TXT use this command: 
